@@ -6387,5 +6387,15 @@
         "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=840&key",
         "license-key-local": {},
         "video-streaming-link": "http:\/\/rftv.wtf\/tp\/rjiptv.mpd?contentID=840"
+    },
+    {
+        "tvg-logo": "https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x",
+        "group-title": "Kids",
+        "channel-name": "Pluto TV Anime",
+        "tvg-id": "Unknown ID",
+        "license-type": "widevine",
+        "license-key": "",
+        "license-key-local": {},
+        "video-streaming-link": "https://tinyurl.com/48jj7pct"
     }
 ]
