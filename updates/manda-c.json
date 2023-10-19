@@ -3111,22 +3111,13 @@
     },
     {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/STJHD_Thumbnail-v3\/STJHD_Thumbnail.png",
-        "group-title": "Tata Sky",
+        "group-title": "Bengali",
         "channel-name": "Star Jalsha HD",
         "tvg-id": "Unknown ID",
-        "license-type": "clearkey",
+        "license-type": "widevine",
         "license-key": "",
-        "license-key-local": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "f4/COl7QvT+VpPs4QpOAdQ",
-                    "kid": "UuSQhPTnU0O5CD2wE8DUBA"
-                }
-            ],
-            "type": "temporary"
-        },
-        "video-streaming-link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd"
+        "license-key-local": {},
+        "video-streaming-link": "https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/star_jalsha_576/star_jalsha_576.m3u8?bitrate=1000000&channel=star_jalsha_576&gp_id="
     },
     {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11970-j9luk5ag-v1\/imageContent-11970-j9luk5ag-m1.png",
