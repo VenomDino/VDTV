@@ -1,5 +1,15 @@
 [
     {
+        "tvg-logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
+        "group-title": "Sports",
+        "channel-name": "Star Sports Tamil 1",
+        "tvg-id": "Unknown ID",
+        "license-type": "widevine",
+        "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "license-key-local": {},
+        "video-streaming-link": "http://xtv.ooo:8080/46883/46883/167574"
+    },
+    {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
         "group-title": "Sports",
         "channel-name": "Star Sports Select 2 HD",
@@ -6394,8 +6404,18 @@
         "channel-name": "Pluto TV Anime",
         "tvg-id": "Unknown ID",
         "license-type": "widevine",
-        "license-key": "",
+        "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
         "license-key-local": {},
         "video-streaming-link": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId="
+    },
+    {
+        "tvg-logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/cynbrg6ff4bo0iunq7gc",
+        "group-title": "Kids",
+        "channel-name": "Hungama TV",
+        "tvg-id": "Unknown ID",
+        "license-type": "widevine",
+        "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "license-key-local": {},
+        "video-streaming-link": "http://xtv.ooo:8080/46883/46883/150480"
     }
 ]
