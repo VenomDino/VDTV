@@ -3590,16 +3590,6 @@
     },
     {
         "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=956&key",
-        "license-key-local": "",
-        "tvg-id": "",
-        "tvg-logo": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66705-kuqnqhwg-v1\/imageContent-66705-kuqnqhwg-m1.png",
-        "group-title": "Regional Telugu",
-        "channel-name": "STAR Maa HD",
-        "video-streaming-link": "https:\/\/delta45tatasky.akamaized.net\/out\/i\/1375.mpd"
-    },
-    {
-        "license-type": "clearkey",
         "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=516&key",
         "license-key-local": "",
         "tvg-id": "",
@@ -3700,16 +3690,6 @@
     },
     {
         "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=957&key",
-        "license-key-local": "",
-        "tvg-id": "",
-        "tvg-logo": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66770-kuwalqkg-v1\/imageContent-66770-kuwalqkg-m1.png",
-        "group-title": "Regional Telugu",
-        "channel-name": "Star Maa Movies HD",
-        "video-streaming-link": "https:\/\/delta44tatasky.akamaized.net\/out\/i\/1568869.mpd"
-    },
-    {
-        "license-type": "clearkey",
         "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=387&key",
         "license-key-local": "",
         "tvg-id": "",
@@ -3717,16 +3697,6 @@
         "group-title": "Regional Telugu",
         "channel-name": "Star Maa Movies HD",
         "video-streaming-link": "https:\/\/bpprod7linear.akamaized.net\/bpk-tv\/irdeto_com_Channel_611\/output\/manifest.mpd"
-    },
-    {
-        "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=954&key",
-        "license-key-local": "",
-        "tvg-id": "",
-        "tvg-logo": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66595-kupdpd9k-v1\/imageContent-66595-kupdpd9k-m1.png",
-        "group-title": "Regional Telugu",
-        "channel-name": "Star Maa Gold",
-        "video-streaming-link": "https:\/\/delta39tatasky.akamaized.net\/out\/i\/5223418.mpd"
     },
     {
         "license-type": "clearkey",
