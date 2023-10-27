@@ -1,14 +1,5 @@
 [
     {
-        "license-type": "widevine",
-        "tvg-logo": "",
-        "group-title": "",
-        "channel-name": "",
-        "video-streaming-link": "#EXTM3U x-tvg-url=\"https:\/\/avkb.short.gy\/tsepg.xml.gz\"",
-        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
-        "license-key-local": ""
-    },
-    {
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12282-ja02jlp4-v2\/imageContent-12282-ja02jlp4-m2.png",
         "group-title": "Lifestyle",
